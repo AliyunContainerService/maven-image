@@ -1,7 +1,6 @@
 # Maven Docker Image with Aliyun Mirror
-================
-This image is built from official Maven Docker image with [Aliyun Mirror](http://maven.aliyun.com/).
 
+This image is built from official Maven Docker image with [Aliyun Mirror](http://maven.aliyun.com/).
 
 ### Run a single Maven command
 
